@@ -1,0 +1,7 @@
+name: MoTransname
+version: '${version}'
+main: com.nesb01t.motransname.MoTransname
+api-version: '1.20'
+commands:
+  i:
+    usage: /i <item-alias-as-chinese-lang>
